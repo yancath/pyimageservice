@@ -12,7 +12,7 @@ Essentially choose a file, upload and a link appears. You can put the link into 
 
 # :triangular_flag_on_post: Challenges Faced
 - Self taught in Python years ago, this was an exercise for myself to see how to use Python in a more applicable way other than object oriented programming exercises
-- Static file handling isn't the most easiest to do in Tornado, it is recommended to use nginx, but I managed to get it to work
+- Static file handling (adding the CSS file) isn't the most easiest to do in Tornado, it is recommended to use nginx, but I managed to get it to work
 
 # :gem: Future Features
 - Add extra CSS/animations to spice up the page!
@@ -20,3 +20,4 @@ Essentially choose a file, upload and a link appears. You can put the link into 
 
 # :book: Resources
 https://github.com/tornadoweb/tornado/tree/master/demos
+https://www.tornadoweb.org
