@@ -1,3 +1,5 @@
+# :snake: Python Image Upload Service
+
 # :computer: Technical Profile
 This personal project is written in Python specifically the Tornado web application library. My goal is to learn how to implemnent back end services, and create RESTful APIs to be consumed.
 
@@ -13,7 +15,7 @@ Essentially choose a file, upload and a link appears. You can put the link into 
 - Static file handling isn't the most easiest to do in Tornado, it is recommended to use nginx, but I managed to get it to work
 
 # :gem: Future Features
-- Add CSS animations to spice up the page
+- Add extra CSS/animations to spice up the page!
 - Have it output the actual photo uploaded on the page in place of Pinky the ghost from Pac Man
 
 # :book: Resources
